@@ -1,9 +1,14 @@
 ### Hi there 👋
 
 I have worked on very different industries (🛥️, 🔪, 🚲, 💬) and I am now focusing on code, learning the latin of programmation (C, naturally) at 42Berlin (a competitive programming school for software engineers with soft skills).
-At the moment I work on a collection of language learning web apps (fun, useful or both) while teaching myself a webdev tech stack (I like to learn by doing).
-As instance, [this one will generate a cheesy love letter](https://loveletter-seven.vercel.app/) custom to you (you give it your name, city and eventually some additional information). I recommend testing it in a language that you can understand, OpenAI's temperature is crancked up so the output is pretty funny, and hot 🌡️ ! You can then highlight the words or sentences you don't know to check the translation (powered by Deepl API) on one of the app panels.
 
+At the moment I work on a collection of language learning web apps (fun, useful or both) while teaching myself a webdev tech stack (I like to learn by doing). These will be shared with the non-dev public as part of a marketing campaign in collaboration with a french teacher and instagrammer colleague.
+
+As instance, [this one will generate a cheesy love letter](https://loveletter-seven.vercel.app/) custom to you. It is ridiculously and voluntarily (OpenAI 🌡️ at the max) over the top, which makes for a fun love letter, and the app provide you with TTS and translation (via Deepl API) functionality.
+
+
+Cheers,
+Leo
 <!--
 **lmangall/lmangall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
