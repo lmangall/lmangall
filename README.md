@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-Learning coding at 42Berlin: a programming school for software engineers with soft skills.
+I am currently focused on [ChatPay](https://github.com/TON-42), where I serve as a co-founder. Apart from business meetings and strategy, I do mostly ChatPay's frontend. From conventional commits to mocked API endpoints, I'm proud of how well-organized the project is. As part of a small team, I'm also familiar with the backend and database, stepping in whenever needed.
 
-I currently work on a few language learning web apps while teaching myself a webdev tech stack (=> learn by doing). These will be shared with the non-dev public as part of a marketing campaign in collaboration with a french teacher and instagrammer colleague.
+As a fast side project I did LoveLetter, [💌 check it out](https://langgenie.xyz/loveletter) if you want to receive a cheesy love letter just for you (custom thanks to OpenAI API). It is ridiculously and voluntarily over the top (OpenAI 🌡️ to the max), which makes for a fun love letter, and the app provide you with TTS (Text To Speech) and translation (via Deepl API) functionality.
 
-As instance, [this one will generate a cheesy love letter 💌](https://langgenie.xyz/loveletter) just for you (custom thanks to OpenAI API). It is ridiculously and voluntarily over the top (OpenAI 🌡️ to the max), which makes for a fun love letter, and the app provide you with TTS (Text To Speech) and translation (via Deepl API) functionality.
-
+I am also super proud of finishing the core curricullum of 42 Berlin, a coding school like no other (well, maybe Epitech).
 
 Cheers,
 Leo
