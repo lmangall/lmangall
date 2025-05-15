@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-I am at the end of a curriulum at 42 Berlin based monstly on C and C++: after coding our own libraries, we code our own shell.
-I am currently focused on [ChatPay](https://github.com/TON-42), where I serve as a co-founder. Apart from business meetings and strategy, I do mostly ChatPay's frontend. From conventional commits to mocked API endpoints, I'm proud of how well-organized the project is. As part of a small team, I'm also familiar with the backend and database, stepping in whenever needed.
+I just finished the curriulum of 42 Berlin based monstly on C and C++: after coding our own libraries, we code our own shell.
+Currently doing an internship at Dassault Systems, the task is to implement an AI agent in Catia
+My current side project revolves around molecules for the flavor and perfume industry, but it's WIP so not ready yet to show.
+Last relatively big project was [ChatPay](https://github.com/TON-42), where after a hackathon win we tried to go the startup way.
 
 You can check out [this small project](https://enterprise-decision-tracker.vercel.app/) I did on a 3 days span as a challenge where I tried to implement as many good practices and tools as I could (read more on the [readme](https://github.com/lmangall/enterprise_decision_tracker) on such a high paced project.
 
