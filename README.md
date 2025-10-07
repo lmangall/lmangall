@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Project I'm currently most working on [Futura](https://github.com/552020/futura_prealpha) (web3)
+
 I finished the curriulum of 42 Berlin based monstly on C and C++: after coding our own libraries, we code our own shell and webserver.
 Finished an internship at Dassault Systems augmenting the data to prepare Catia's AI agent, giving a dinosaur code base AI wings.
 On the side I learned more recent language and stacks (ts...) and I am present in the Web3 scene, winning several hackathons and an ICP grant lately.
