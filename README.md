@@ -1,18 +1,16 @@
+
 ### Hi there 👋
 
-Project I'm currently most working on [Futura](https://github.com/552020/futura_prealpha) (web3)
+Project I'm currently most working on: **[Futura](https://github.com/552020/futura_prealpha)** – a hybrid **Web3 and Web2** platform leveraging **ICP or AWS S3 storage**.
 
-I finished the curriulum of 42 Berlin based monstly on C and C++: after coding our own libraries, we code our own shell and webserver.
-Finished an internship at Dassault Systems augmenting the data to prepare Catia's AI agent, giving a dinosaur code base AI wings.
-On the side I learned more recent language and stacks (ts...) and I am present in the Web3 scene, winning several hackathons and an ICP grant lately.
-My current side project revolves around molecules for the flavor and perfume industry : https://www.oumamie.xyz it's full-stack: Next.js frontend and Node.js and Express backend on an Oracle server.
-Last relatively big project was [ChatPay](https://github.com/TON-42), where after a hackathon win we tried to go the startup way.
+I finished the curriculum at **42 Berlin**, mostly based on C and C++: after coding our own libraries, we built our own **shell**, **webserver**....
+Then I did an internship at **Dassault Systems**, augmenting data and working on the architecture of **Catia's future AI agent**, giving a dinosaur code base AI wings.
 
-You can check out [this small project](https://enterprise-decision-tracker.vercel.app/) I did on a 3 days span as a challenge where I tried to implement as many good practices and tools as I could (read more on the [readme](https://github.com/lmangall/enterprise_decision_tracker) ) on such a high paced project.
+My current side project revolves around molecules for the flavor and perfume industry: **[Oumamie](https://www.oumamie.xyz)** – a full-stack application with **Next.js frontend** ([frontend repo](https://github.com/lmangall/flaveur)) and **Node.js/Express backend** ([backend repo](https://github.com/lmangall/flaveur_backend)) deployed on **Oracle servers**.
 
-As my first web app I did LoveLetter, [💌 check it out]( https://langgenie.vercel.app/loveletter) if you want to receive a cheesy love letter just for you. It is voluntarily over the top (OpenAI 🌡️ to the max), which makes for a fun love letter, and the app provide you with TTS (Text To Speech) and translation (via Deepl API) functionality.
+Another relatively big project was **[ChatPay](https://github.com/TON-42)**, where after a hackathon win we tried to go the startup route.
 
-Cheers,
+Cheers,  
 Leo
 <!--
 **lmangall/lmangall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
